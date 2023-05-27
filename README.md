@@ -19,8 +19,6 @@
 - PHP
 - MySQL
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-
 
 <h3 align="left">📲 Screenshots</h3>
 
@@ -44,6 +42,7 @@
 <img src="https://github.com/bhayanimeet/stock_management_system_php_api/assets/121868259/6794e2f3-98bd-4328-8b50-4f59f89903ad" width="300px" height="200px">
 <img align="left" src="https://github.com/bhayanimeet/stock_management_system_php_api/assets/121868259/dbc6c6e9-e6be-4e26-b58e-acbfacff94fd" width="300px" height="200px">
 <img src="https://github.com/bhayanimeet/stock_management_system_php_api/assets/121868259/d8f6712d-8907-46fe-869b-a1983efe0483" width="300px" height="200px">
+
 
 
 - 👨‍💻 All of my projects are available at [Meet bhayani](https://github.com/bhayanimeet)
